@@ -1,0 +1,80 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(6, 70, 70);
+    width: 100%;
+    height: 100vh;
+}
+#register{
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    padding: 20px;
+    margin: 10px auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 500px 10px grey;
+}
+#register .div_h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+#register form .div_2{
+    margin: 0px;
+    padding: 10px;
+    display: -webkit-box;
+    
+}
+#register .inp1{
+    margin: 20px;
+    padding: 10px;
+    background-color: rgb(219, 207, 207);
+    border: 1px solid rgb(219, 207, 207);
+}
+#register .inp2{
+    margin: 20px;
+    padding: 10px;
+    background-color: rgb(219, 207, 207);
+    border: 1px solid rgb(219, 207, 207);
+    width: 80px;
+}
+ #register .inp3{
+    margin: 20px;
+    padding: 10px;
+    background-color: rgb(219, 207, 207);
+    border: 1px solid rgb(219, 207, 207);
+    width: 285px;
+ }
+ #register .lab1{
+    margin: 20px;
+    padding: 10px;
+    width: 400px;
+    background-color: rgb(219, 207, 207);
+    border: 1px solid rgb(219, 207, 207);
+ }
+ #register .lab2{
+    margin: 7px;
+    padding: 10px;
+    width: 400px;
+    background-color: rgb(219, 207, 207);
+    border: 1px solid rgb(219, 207, 207);
+ }
+ #register .lab3{
+    margin: 18px;
+ }
+ #register .section .yes{
+    
+ }
+ #register form button{
+    height: 40px;
+    width: 117px;
+    background-color: #ff0000c9;
+    border: 1px;
+    border-radius: 9px;
+    color: white;
+}
+ 
+
